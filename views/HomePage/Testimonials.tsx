@@ -10,30 +10,30 @@ import { media } from 'utils/media';
 
 const TESTIMONIALS = [
   {
-    companyLogoUrl: '/testimonials/company-logo-1.svg', // Update with your logo path
+    companyLogoUrl: '/testimonials/company-logo-1.svg',
     content: `I dropped my laptop, and the screen was completely shattered. The team fixed it in under an hour, and it works like new now. Highly recommend their services!`,
     author: {
       name: 'John Doe',
       title: 'Freelance Designer',
-      avatarUrl: '/testimonials/author-photo-1.jpeg', // Update with your image path
+      avatarUrl: '/testimonials/author-photo-1.jpeg',
     },
   },
   {
-    companyLogoUrl: '/testimonials/company-logo-2.svg', // Update with your logo path
+    companyLogoUrl: '/testimonials/company-logo-2.svg',
     content: `My phone stopped charging, and I thought I’d have to buy a new one. But they fixed it the same day at an affordable price. Great service!`,
     author: {
       name: 'Jane Smith',
       title: 'Small Business Owner',
-      avatarUrl: '/testimonials/author-photo-2.jpeg', // Update with your image path
+      avatarUrl: '/testimonials/author-photo-2.jpeg',
     },
   },
   {
-    companyLogoUrl: '/testimonials/company-logo-3.svg', // Update with your logo path
+    companyLogoUrl: '/testimonials/company-logo-3.svg',
     content: `I had a gaming console that wouldn’t turn on. They diagnosed the issue quickly and repaired it within a day. Very professional and reliable.`,
     author: {
       name: 'Mike Johnson',
       title: 'Gaming Enthusiast',
-      avatarUrl: '/testimonials/author-photo-3.jpeg', // Update with your image path
+      avatarUrl: '/testimonials/author-photo-3.jpeg',
     },
   },
 ];

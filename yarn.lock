@@ -3941,11 +3941,6 @@ internal-slot@^1.1.0:
     hasown "^2.0.2"
     side-channel "^1.1.0"
 
-is-absolute-url@^4.0.0:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/is-absolute-url/-/is-absolute-url-4.0.1.tgz#16e4d487d4fded05cfe0685e53ec86804a5e94dc"
-  integrity sha512-/51/TKE88Lmm7Gc4/8btclNXWS+g50wXhYJq8HWIBAGUBnoAdRu1aXeh364t/O7wXDAcTJDP8PNuNKWUDWie+A==
-
 is-alphabetical@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/is-alphabetical/-/is-alphabetical-2.0.1.tgz#01072053ea7c1036df3c7d19a6daaec7f19e789b"
@@ -5684,19 +5679,10 @@ remark-breaks@^3.0.1:
     mdast-util-newline-to-break "^1.0.0"
     unified "^10.0.0"
 
-remark-external-links@^9.0.1:
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/remark-external-links/-/remark-external-links-9.0.1.tgz#6e28354fd7d2c75c2652e32782441bb312cc995a"
-  integrity sha512-EYw+p8Zqy5oT5+W8iSKzInfRLY+zeKWHCf0ut+Q5SwnaSIDGXd2zzvp4SWqyAuVbinNmZ0zjMrDKaExWZnTYqQ==
-  dependencies:
-    "@types/hast" "^2.3.2"
-    "@types/mdast" "^3.0.0"
-    extend "^3.0.0"
-    is-absolute-url "^4.0.0"
-    mdast-util-definitions "^5.0.0"
-    space-separated-tokens "^2.0.0"
-    unified "^10.0.0"
-    unist-util-visit "^4.0.0"
+remark-external-links@^10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/remark-external-links/-/remark-external-links-10.0.0.tgz#ec2bc906134524a9c5e07a864967f97e0a658d60"
+  integrity sha512-i0WMfyR6RT3F6Sunu8Q5mpZvHd9YLLiSio8v2+2E/9KhJ/4g/nCg2rGo5e6vpRFIwwZKGInM9kgVYUoNrCa56g==
 
 remark-footnotes@^4.0.1:
   version "4.0.1"
